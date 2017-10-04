@@ -27,10 +27,18 @@ $ npm install vue-clickaway --save
 
 From CDN:
 
+For non-minified version include on of these
 ``` html
 <script src="https://cdn.rawgit.com/simplesmiler/vue-clickaway/2.1.0/dist/vue-clickaway.js"></script>
 <!-- OR -->
+<script src="https://cdn.jsdelivr.net/npm/vue-clickaway@2.1.0/dist/vue-clickaway.js"></script>
+```
+
+For minified version include one of these
+```html
 <script src="https://cdn.rawgit.com/simplesmiler/vue-clickaway/2.1.0/dist/vue-clickaway.min.js"></script>
+<!-- OR -->
+<script src="https://cdn.jsdelivr.net/npm/vue-clickaway@2.1.0/dist/vue-clickaway.min.js"></script>
 ```
 
 ## Usage
